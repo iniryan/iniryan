@@ -26,8 +26,9 @@ const iniryan = {
         design: ["figma", "adobe", "canva"],
         other: ["git", "postman"]
     },
-    currentFocus: "learn and hard work",
-    funFact: "this is about me"
+    currentFocus: "javascript and kotlin",
+    funFact: "why do programmers prefer dark mode? because light attracts bugs!",
+    reachMe: "riyanadi552@gmail.com"
 };
 ```
 ---
@@ -42,12 +43,24 @@ const iniryan = {
 
 <details>
    <summary><b>⚡ Github Stats</b></summary> 
-
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iniryan&theme=vision-friendly-dark&hide_border=false" /> 
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iniryan&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iniryan&theme=vision-friendly-dark&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
 </details>
+
+<details>
+  <br />
+  <summary><b>🎮 My Console</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Windows 11 Home Single Language</li>
+	    <li><b>Laptop: </b> ASUS Vivobook M1403QA</li>
+  	    <li><b>Browser: </b> Chrome & Microsoft Edge</li>
+	    <li><b>Code Editor:</b> Visual Studio Code, Android Studio</li>
+ 	    <li><b>Other Tools:</b> Postman, Notion, Git</li>
+	</ul>
+</details>
+
 
 ## 🍵 Like My Work?
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ryanadi) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/RyanAdi031202) 

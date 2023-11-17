@@ -20,7 +20,7 @@ const iniryan = {
     code: ["javascript", "python", "java", "php"],
     knowAbout: {
         languages: ["html5", "css3", "javascript", "php", "java", "kotlin", "python"],
-        framework: ["laravel", "codeigniter", "expo", "bootstrap", "react"]
+        framework: ["laravel", "codeigniter", "expo", "bootstrap", "react"],
         backEnd: ["php", "node"],
         databases: ["mysql", "mongo", "firebase"],
         design: ["figma", "adobe", "canva"],

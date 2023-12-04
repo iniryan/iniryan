@@ -17,7 +17,7 @@
 const iniryan = {
     pronouns: "he" | "him",
     askMeAbout: ["web dev", "web design", "app dev", "app design", "graphic design"],
-    code: ["javascript", "python", "java", "php"],
+    code: ["javascript", "python", "java", "php", "kotlin"],
     knowAbout: {
         languages: ["html5", "css3", "javascript", "php", "java", "kotlin", "python"],
         framework: ["laravel", "codeigniter", "expo", "bootstrap", "react"],
